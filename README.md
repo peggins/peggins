@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hey, visitor!
 
+I'm Elm enthusiast and software developer.  
+Building web applications whenever possible.  
+Currently working and studying with the following tools:
+
+- Elm
+- VueJS
+- Redux
+- MotionUI
+
+I recently built my first web application with Elm, Notea — an notepad online., which I really enjoyed working on ([read more about it here](https://medium.com/@joao.marconl/how-i-built-an-online-notepad-with-elm-and-why-it-was-a-great-decision-f17b360805ae)).
 <!--
 **peggins/peggins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
