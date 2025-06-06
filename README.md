@@ -1,4 +1,4 @@
-## Hey, visitor!
+## 👋 Hey, visitor!
 
 I'm Elm enthusiast and software developer.  
 Building web applications whenever possible.  
